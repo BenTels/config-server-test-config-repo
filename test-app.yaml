@@ -1,0 +1,5 @@
+message: Goodbye World!!
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bzt:bztPasswd@cluster-bzt-test-0.ew5ad.mongodb.net/test
